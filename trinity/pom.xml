@@ -5,7 +5,7 @@
 	<artifactId>trinity</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>trinity Maven Webapp</name>
+	<name>Trinity</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
